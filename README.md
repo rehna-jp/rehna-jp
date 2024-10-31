@@ -46,7 +46,7 @@ In addition, I’m diving into **JavaScript**, **AI and machine learning**, and 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehna-jp&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=precious-jeremy&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehna-jp&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ------
