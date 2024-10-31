@@ -41,9 +41,9 @@ In addition, I’m diving into **JavaScript**, **AI and machine learning**, and 
 ------
 
 <h3 align="left">Activity:</h3>
-<a href="https://github.com/precious-jeremy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=precious-jeremy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=precious-jeremy&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<a href="https://github.com/rehna-jp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehna-jp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehna-jp&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=precious-jeremy&theme=tokyonight" alt="GitHub Streak Stats" />
