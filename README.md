@@ -1,33 +1,38 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <div align="center">
 
-# Precious Jeremy Onyekumnahu
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Hey+there!+I'm+Precious+Jeremy+Onyekumnahu;Aspiring+Smart+Contract+Auditor+🔒;Fullstack+Blockchain+Developer+⛓;Building+on-chain+%26+in-browser+🚀;Always+learning%2C+always+shipping+🌱" alt="Typing SVG" />
 
-### Aspiring Smart Contract Auditor · Fullstack Blockchain Developer · Student
+<br/>
 
-![Open to Collaborate](https://img.shields.io/badge/🟢_Status-Open_to_Collaborate-00d4aa?style=flat-square&labelColor=0a0e1a&color=00d4aa)
-![Web3 Security](https://img.shields.io/badge/🔒_Focus-Web3_Security-7c3aed?style=flat-square&labelColor=0a0e1a&color=7c3aed)
-![Profile Views](https://komarev.com/ghpvc/?username=rehna-jp&label=Profile+Views&color=00d4aa&style=flat-square)
+![Open to Collaborate](https://img.shields.io/badge/🟢%20Open%20to%20Collaborate-0f172a?style=flat-square&logoColor=white)
+![Web3 Security](https://img.shields.io/badge/🔒%20Web3%20Security-0f172a?style=flat-square&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=rehna-jp&label=Profile+views&color=0f172a&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I build things for the web and the blockchain. My stack spans **React, Next.js, TypeScript** on the frontend through to **Node.js** on the backend — and increasingly into **Solidity** and smart contract development. I'm on a focused path toward **smart contract auditing** and Web3 security, combining full-stack skills with an eye for vulnerabilities on-chain.
+```javascript
+const precious = {
+  role:     "Fullstack Blockchain Developer",
+  goal:     "Aspiring Smart Contract Auditor 🔒",
+  stack:    ["React", "Next.js", "Solidity", "TypeScript"],
+  learning: "Web3 security & on-chain vulnerabilities",
+  funFact:  "I debug Solidity at 2am and call it fun 🤓",
+};
+```
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Projects
 
-| | |
-|---|---|
-| 📚 **Learning** | Smart contract security & auditing |
-| ⛓ **Building** | Fullstack Web3 projects |
-| 🤝 **Looking to** | Collaborate on DeFi & dApps |
-| ⚡ **Fun fact** | Learning something new every single day |
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🌍 | **Portfolio Website** | Personal portfolio showcasing my dev journey — clean, responsive design | HTML, CSS |
+| ⛓ | **Solidity Project** *(coming soon)* | Smart contract project in progress. Watch this space | Solidity, Foundry |
+| 🔒 | **Web3 dApp** *(coming soon)* | Full-stack dApp — Next.js frontend + Solidity smart contracts | Next.js, TypeScript, Solidity |
 
 ---
 
@@ -35,52 +40,58 @@ I build things for the web and the blockchain. My stack spans **React, Next.js, 
 
 **Blockchain**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=00d4aa)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-0a0e1a?style=flat-square&logoColor=00d4aa)
-![Foundry](https://img.shields.io/badge/Foundry-0a0e1a?style=flat-square&logoColor=00d4aa)
+![Solidity](https://img.shields.io/badge/Solidity-0f172a?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-0f172a?style=flat-square&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-0f172a?style=flat-square&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=java&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
 
 **Tools & Infra**
 
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
----
-
-## 📂 Projects
-
-> 🚧 More projects coming soon — currently building in Solidity & Next.js. Stay tuned!
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌍 Portfolio Website | Personal portfolio showcasing my dev journey — clean layout, fully responsive | HTML, CSS |
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/Windows-0f172a?style=flat-square&logo=windows&logoColor=0078D4)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rehna-jp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&icon_color=a78bfa&text_color=7c8db5" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehna-jp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&text_color=7c8db5" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rehna-jp&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=bc8cff&text_color=6e7681" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehna-jp&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=6e7681" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehna-jp&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00d4aa&fire=a78bfa&currStreakLabel=00d4aa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehna-jp&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rehna-jp/rehna-jp/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -105,5 +116,5 @@ I build things for the web and the blockchain. My stack spans **React, Next.js, 
 ---
 
 <div align="center">
-  <i>"The best smart contract is one that can't be exploited."</i>
+  <a href="https://github.com/rehna-jp">rehna-jp</a>
 </div>
